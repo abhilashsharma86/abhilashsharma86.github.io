@@ -5,7 +5,7 @@
 ### Articles
 
 [Million Technologies, One Mind](https://www.linkedin.com/pulse/dilemma-todays-developer-million-technologies-one-mind-sharma/)
-<img src="images/bruce-mars-xj8qrWvuOEs-unsplash.jpg?raw=true"/>
+<img src="images/million-technologies-one-mind.jpg?raw=true"/>
 
 ---
 [Developer to DevOps](https://www.linkedin.com/pulse/when-developer-steps-shoes-devops-engineer-abhilash-sharma/)
@@ -13,7 +13,7 @@
 
 ---
 [Why, Who Scrum Master](https://medium.com/@abhilash.012/why-who-how-scrum-master-from-the-eyes-of-a-scrum-member-8fcac4838d0b/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/olgaguryanova.jpg?raw=true"/>
 
 ---
 
