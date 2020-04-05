@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Articles
 
-[Project 1 Title](/sample_page)
+[Million Technologies, One Mind](https://www.linkedin.com/pulse/dilemma-todays-developer-million-technologies-one-mind-sharma/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Developer to DevOps](https://www.linkedin.com/pulse/when-developer-steps-shoes-devops-engineer-abhilash-sharma/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Why, Who Scrum Master](https://medium.com/@abhilash.012/why-who-how-scrum-master-from-the-eyes-of-a-scrum-member-8fcac4838d0b/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
