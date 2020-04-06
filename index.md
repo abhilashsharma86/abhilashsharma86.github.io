@@ -16,6 +16,11 @@
 <img src="images/olgaguryanova.jpeg?raw=true"/>
 
 ---
+[Code for Today vs Code for Future](https://medium.com/@abhilash.012/code-for-today-vs-code-for-future-7f70e44f342c<7)
+<img src="images/KevinKu.jpeg?raw=true"/>
+
+---
+
 
 ### Projects
 
