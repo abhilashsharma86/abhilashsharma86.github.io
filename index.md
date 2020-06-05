@@ -24,11 +24,10 @@
 
 ### Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [AWS Tutorial For Beginners in English](https://www.youtube.com/playlist?list=PLCFe3TcoBniL38s97aMbhrSgly3y9VsDc)
+- [AWS Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9)
+- [YouTube Channel](http://www.youtube.com/c/TogetherwithAbhi)
+
 
 ---
 
