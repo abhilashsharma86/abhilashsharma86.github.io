@@ -26,6 +26,7 @@
 
 - [AWS Tutorial For Beginners in English](https://www.youtube.com/playlist?list=PLCFe3TcoBniL38s97aMbhrSgly3y9VsDc)
 - [AWS Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9)
+- [Introduction to DevOps in Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniJMLjeLMqYhRuho7yPpGZFw)
 - [YouTube Channel](http://www.youtube.com/c/TogetherwithAbhi)
 
 
